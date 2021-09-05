@@ -1,2 +1,3 @@
-# gsql-rs
-gsql-rs is a structured query language code builder for Rust.
+# GSQL
+
+`GSQl` is a structured query language code builder for Rust.
